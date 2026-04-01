@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "mar",
+    "label": "march issue",
+    "cover": "https://res.cloudinary.com/dh5foitho/image/upload/f_auto,q_auto/v1/gigil-pops/mar/cover?_a=BAMAOGWQ0",
+    "downloadUrl": "",
+    "pages": [
+      {
+        "src": "https://res.cloudinary.com/dh5foitho/image/upload/f_auto,q_auto/v1/gigil-pops/mar/1%20(1)?_a=BAMAOGWQ0",
+        "full": "https://res.cloudinary.com/dh5foitho/image/upload/f_auto,q_auto/v1/gigil-pops/mar/1%20(1)?_a=BAMAOGWQ0"
+      }
+    ]
+  }
+]
